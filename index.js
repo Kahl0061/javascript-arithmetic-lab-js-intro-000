@@ -1,8 +1,8 @@
-add(1, 8)
-  return add
-subtract(1,8)
-  return subtract
-multiply(1,8)
-  return multiply
-divide(8,1)
-  return divide
+add(a, b)
+  return (a + b)
+subtract(c,d)
+  return (c - d)
+multiply(e, f)
+  return (e * f)
+divide(g, h)
+  return (g / h)
