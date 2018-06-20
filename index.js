@@ -1,21 +1,21 @@
 function add(a, b){
   return (a + b)
 }
-function subtract(c,d) {
-  return (c - d)
+function subtract(a, b) {
+  return (a - b)
 }
-function multiply(e, f) {
-  return (e * f)
+function multiply(a, b) {
+  return (a * b)
 }
-function divide(g, h) {
-  return (g / h)
+function divide(a, b) {
+  return (a / b)
 }
 function inc(n) {
   return n += 1
 }
-function inc(n) {
-  return n -= 2
+function dec(n) {
+  return n -= 1
 }
-function makeInt(z) {
-  return parseInt(z, 10)
+function makeInt(n) {
+  return parseInt(n, 10)
 }
