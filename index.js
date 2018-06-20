@@ -10,3 +10,6 @@ function multiply(e, f) {
 function divide(g, h) {
   return (g / h)
 }
+function add5() {
+  number +=5
+}
