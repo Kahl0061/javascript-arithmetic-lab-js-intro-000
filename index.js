@@ -4,7 +4,7 @@ function add(a, b){
 function subtract(c,d) {
   return (c - d)
 }
-function multiply(e, f) { 
+function multiply(e, f) {
   return (e * f)
 }
 function divide(g, h) {
