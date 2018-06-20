@@ -14,7 +14,7 @@ function inc(n) {
   return n += 1
 }
 function inc(n) {
-  return n -=1
+  return n -= 2
 }
 function makeInt(z) {
   return parseInt(z, 10)
