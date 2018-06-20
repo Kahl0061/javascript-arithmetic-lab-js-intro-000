@@ -1,8 +1,12 @@
-add(a, b)
+function add(a, b){
   return (a + b)
-subtract(c,d)
+}
+function subtract(c,d) {
   return (c - d)
-multiply(e, f)
+}
+function multiply(e, f) { 
   return (e * f)
-divide(g, h)
+}
+function divide(g, h) {
   return (g / h)
+}
