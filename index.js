@@ -13,3 +13,6 @@ function divide(g, h) {
 function inc(n) {
   return n += 1
 }
+function inc(n) {
+  return n -=1
+}
